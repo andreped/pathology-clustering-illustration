@@ -3,7 +3,7 @@
 This repository contains a simple demonstration of how t-SNE can be used to 
 represents different tissue types in histopathological images.
 
-<img src="assets/t-sne-simulation-pathology.gif" title="t-SNE" width=512 style="background-color:black">
+<img src="assets/t-sne-simulation-pathology.gif" title="t-SNE" width=750 style="background-color:black">
 
 ## Stack
 
