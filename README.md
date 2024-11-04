@@ -31,6 +31,10 @@ To convert recording to GIF, use any video converter like [ezgif](https://ezgif.
 
 If you use this illustration in a presentation or publication, please cite it using the repository URL.
 
+## Acknowledgements
+
+Implementations were based on the code provided in [this blog post](https://learnopencv.com/t-sne-t-distributed-stochastic-neighbor-embedding-explained/).
+
 ## License
 
 This project has MIT license.
