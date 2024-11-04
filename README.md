@@ -1,4 +1,6 @@
 # Pathology t-SNE simulation
+[![license](https://img.shields.io/github/license/DAVFoundation/captain-n3m0.svg?style=flat-square)](https://github.com/andreped/pathology-representation-simulation/blob/main/LICENSE.md)
+<a href="https://colab.research.google.com/gist/andreped/a58c56104374668c4c632040d24d4064/t-sne-simulation.ipynb#scrollTo=fYm6aF3tIZbM" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
 This repository contains a simple demonstration of how t-SNE can be used to 
 represents different tissue types in histopathological images.
