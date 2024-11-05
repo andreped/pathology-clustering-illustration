@@ -24,7 +24,7 @@ When it opens, enable **Spherizie Data** by clicking the checkbox on the left-ha
 Then click the **T-SNE** option underneath. This should start the simulation immediantly.  
 Then just play around with hyperparameters to get a simulation you are pleased with.
 
-For the actual recording, I used screen recording on my macOS 14.6 using `CTRL + SHIFT + 5`
+For the actual recording, I used screen recording on my macOS 14.6 using `CMD + SHIFT + 5`
 and selecting a window, but use whichever tool you prefer :]
 
 To convert recording to GIF, use any video converter like [ezgif](https://ezgif.com/video-to-gif) or similar.
